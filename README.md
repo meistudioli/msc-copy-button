@@ -95,7 +95,7 @@ msc-copy-button {
 
 - **copycontent**
 
-Set content for copy. Default is `""`（not set）. &lt;<msc-copy-button /> will throw error when empty content.
+Set content for copy. Default is `""`（empty string）. &lt;<msc-copy-button /> will throw error when empty content.
 
 ```html
 <msc-copy-button
@@ -109,7 +109,7 @@ Set content for copy. Default is `""`（not set）. &lt;<msc-copy-button /> will
 
 | Property Name | Type | Description |
 | ----------- | ----------- | ----------- |
-| copycontent | String | Getter / Setter content for copy. Default is empty string. |
+| copycontent | String | Getter / Setter content for copy. Default is `""` (empty string). |
 
 ## Events
 

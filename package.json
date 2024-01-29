@@ -1,6 +1,6 @@
 {
   "name": "msc-copy-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Copy content is a very common feature to help user copy content easier. <msc-copy-button /> provides the whole feature including UI & interaction. With <msc-copy-button />, developers could adopt copy feature to web page easier.",
   "main": "index.html",
   "scripts": {

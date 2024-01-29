@@ -6,7 +6,7 @@ const defaults = {
 };
 
 const booleanAttrs = []; // booleanAttrs default should be false
-const objectAttrs = ['collages'];
+const objectAttrs = [];
 const custumEvents = {
   success: 'msc-copy-button-success',
   fail: 'msc-copy-button-fail'
